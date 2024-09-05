@@ -1,0 +1,131 @@
+/* App.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+* {
+  max-width: 100%;
+}
+
+header {
+  background-color: white;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  color: white;
+  padding: 1rem;
+  font-size: calc(10px + 2vmin);
+  position: fixed;
+  z-index: 100;
+  width: 98%;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.header-image {
+  width: 30%;
+  text-align: center;
+}
+
+main {
+  flex-grow: 1;
+  position: relative;
+}
+
+.loading-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  background-color: black;
+}
+
+.content-container {
+  position: relative;
+}
+
+.live-feed {
+  position: relative;
+}
+
+.image-overlay {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.image-overlay img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.car-details-overlay {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  box-shadow: -5px -5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+}
+
+.car-details-overlay h2 {
+  margin-top: 0;
+}
+
+.start-stop-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  box-shadow: -5px -5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+}
+
+@media (max-width: 768px) {
+  .car-details-overlay {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    align-self: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    box-shadow: -5px -5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
+  }
+  .start-stop-overlay {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    align-self: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    box-shadow: -5px -5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 25px;
+  }
+  .header-image {
+    width: 75%;
+    text-align: center;
+  }
+}

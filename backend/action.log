@@ -1,0 +1,1235 @@
+[2024-03-17 12:13:20] Accessed entire cars DB.
+[2024-03-17 12:13:20] Accessed entire cars DB.
+[2024-03-17 12:13:21] Deleted plate 41242.
+[2024-03-17 12:13:22] Accessed entire cars DB.
+[2024-03-17 12:13:22] Accessed entire cars DB.
+[2024-03-17 12:13:26] Attempted to identify plate 41240.
+[2024-03-17 12:13:26] Found plate 41240.
+[2024-03-17 12:13:30] Added transaction of 20.0 to plate 41240.
+[2024-03-17 12:13:31] Attempted to identify plate 41240.
+[2024-03-17 12:13:31] Found plate 41240.
+[2024-03-17 12:13:31] Marked plate 41240 stolen.
+[2024-03-17 12:13:31] Attempted to identify plate 41240.
+[2024-03-17 12:13:31] Found plate 41240.
+[2024-03-17 12:13:32] Marked plate 41240 not stolen.
+[2024-03-17 12:13:32] Attempted to identify plate 41240.
+[2024-03-17 12:13:32] Found plate 41240.
+[2024-03-17 12:25:48] Accessed entire cars DB.
+[2024-03-17 12:25:55] Attempted to identify plate 41240.
+[2024-03-17 12:25:55] Found plate 41240.
+[2024-03-17 12:26:23] Attempted to identify plate ABC12.
+[2024-03-17 12:26:23] Plate ABC12 not found.
+[2024-03-17 12:27:17] Accessed entire cars DB.
+[2024-03-17 12:27:30] Attempted to identify plate ABC123.
+[2024-03-17 12:27:30] Found plate ABC123.
+[2024-03-17 12:27:44] Added transaction of 50.0 to plate ABC123.
+[2024-03-17 12:27:49] Attempted to identify plate ABC123.
+[2024-03-17 12:27:49] Found plate ABC123.
+[2024-03-17 12:28:03] Marked plate ABC123 stolen.
+[2024-03-17 12:28:07] Attempted to identify plate ABC123.
+[2024-03-17 12:28:07] Found plate ABC123.
+[2024-03-17 12:28:20] Deleted plate DEF234.
+[2024-03-17 12:28:46] Added admin user new_user.
+[2024-03-17 12:28:55] Deleted admin user user2.
+[2024-03-17 12:29:01] Deleted admin user new_user.
+[2024-03-17 12:31:13] Performed ANPR for plate 13".
+[2024-03-17 12:32:58] Performed ANPR for plate 13.
+[2024-03-17 12:35:00] Performed ANPR for plate 2K10.
+[2024-03-17 12:36:13] Performed ANPR for plate F.
+[2024-03-17 12:37:17] Performed ANPR for plate F.
+[2024-03-17 12:37:28] Performed ANPR for plate F.
+[2024-03-17 12:41:07] Performed ANPR for plate 60462.
+[2024-03-17 14:00:11] Added admin user user8.
+[2024-03-17 14:00:20] Accessed entire cars DB.
+[2024-03-17 14:00:20] Accessed entire cars DB.
+[2024-03-17 14:02:15] Added admin user admin.
+[2024-03-17 14:02:32] Accessed entire cars DB.
+[2024-03-17 14:02:32] Accessed entire cars DB.
+[2024-03-17 14:02:34] Accessed entire cars DB.
+[2024-03-17 14:02:34] Accessed entire cars DB.
+[2024-03-17 14:02:36] Deleted plate 12345.
+[2024-03-17 14:02:36] Accessed entire cars DB.
+[2024-03-17 14:02:36] Accessed entire cars DB.
+[2024-03-17 14:02:37] Deleted plate 41240.
+[2024-03-17 14:02:37] Accessed entire cars DB.
+[2024-03-17 14:02:37] Accessed entire cars DB.
+[2024-03-17 14:02:37] Deleted plate ABC123.
+[2024-03-17 14:02:38] Accessed entire cars DB.
+[2024-03-17 14:02:38] Accessed entire cars DB.
+[2024-03-17 14:03:17] Performed ANPR for plate 41240.
+[2024-03-17 14:03:20] Performed ANPR for plate 4124).
+[2024-03-17 14:03:24] Performed ANPR for plate 41240.
+[2024-03-17 14:03:40] Attempted to identify plate 41240.
+[2024-03-17 14:03:40] Plate 41240 not found.
+[2024-03-17 14:03:49] Attempted to identify plate 41240.
+[2024-03-17 14:03:49] Found plate 41240.
+[2024-03-17 14:03:56] Accessed entire cars DB.
+[2024-03-17 14:03:56] Accessed entire cars DB.
+[2024-03-17 14:04:09] Updated car details for 41240.
+[2024-03-17 14:04:16] Attempted to identify plate 41240.
+[2024-03-17 14:04:16] Found plate 41240.
+[2024-03-17 14:04:22] Added transaction of 100.0 to plate 41240.
+[2024-03-17 14:04:22] Attempted to identify plate 41240.
+[2024-03-17 14:04:22] Found plate 41240.
+[2024-03-17 14:04:27] Added transaction of -20.0 to plate 41240.
+[2024-03-17 14:04:27] Attempted to identify plate 41240.
+[2024-03-17 14:04:27] Found plate 41240.
+[2024-03-17 14:04:30] Marked plate 41240 stolen.
+[2024-03-17 14:04:30] Attempted to identify plate 41240.
+[2024-03-17 14:04:30] Found plate 41240.
+[2024-03-17 14:04:32] Marked plate 41240 not stolen.
+[2024-03-17 14:04:32] Attempted to identify plate 41240.
+[2024-03-17 14:04:32] Found plate 41240.
+[2024-03-17 14:04:33] Accessed entire cars DB.
+[2024-03-17 14:04:34] Accessed entire cars DB.
+[2024-03-17 14:04:55] Accessed entire cars DB.
+[2024-03-17 14:04:55] Accessed entire cars DB.
+[2024-03-17 14:05:00] Deleted plate 47240.
+[2024-03-17 14:05:01] Accessed entire cars DB.
+[2024-03-17 14:05:01] Accessed entire cars DB.
+[2024-03-17 14:05:04] Accessed entire cars DB.
+[2024-03-17 14:05:04] Accessed entire cars DB.
+[2024-03-17 14:05:08] Attempted to identify plate 1234.
+[2024-03-17 14:05:08] Found plate 1234.
+[2024-03-20 17:34:30] [Action Success] Added admin user a.
+[2024-03-20 17:41:22] [Action Success] Accessed entire cars DB.
+[2024-03-20 17:41:22] [Action Success] Accessed entire cars DB.
+[2024-03-20 17:44:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 17:44:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:01:41] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:01:41] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:02:39] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:02:39] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:04:28] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:04:28] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:04:39] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:04:39] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:48] [Action Success] Added Plate 4.
+[2024-03-20 18:07:53] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:53] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:55] [Action Success] Deleted plate 1.
+[2024-03-20 18:07:55] [Action Success] Deleted plate 1.
+[2024-03-20 18:07:56] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:56] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:56] [Action Success] Deleted plate 2.
+[2024-03-20 18:07:57] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:57] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:57] [Action Success] Deleted plate 3.
+[2024-03-20 18:07:57] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:57] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:57] [Action Success] Deleted plate 4.
+[2024-03-20 18:07:57] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:07:57] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:08:00] [Action Success] Added Plate 1.
+[2024-03-20 18:08:16] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:08:16] [Action Success] Found plate 1.
+[2024-03-20 18:08:54] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:08:54] [Action Success] Found plate 1.
+[2024-03-20 18:08:57] [Action Success] Marked plate 1 stolen.
+[2024-03-20 18:08:57] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:08:57] [Action Success] Found plate 1.
+[2024-03-20 18:08:58] [Action Success] Marked plate 1 not stolen.
+[2024-03-20 18:08:58] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:08:58] [Action Success] Found plate 1.
+[2024-03-20 18:11:08] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:11:08] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:13:52] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:13:52] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:13:54] [Action Success] Added Plate 3.
+[2024-03-20 18:13:55] [Action Success] Added Plate 2.
+[2024-03-20 18:13:56] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:13:56] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:14:28] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:14:28] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:14:30] [Action Success] Database Reset.
+[2024-03-20 18:15:27] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:15:27] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:15:31] [Action Success] Added Plate 1.
+[2024-03-20 18:15:31] [Action Success] Added Plate 12.
+[2024-03-20 18:15:31] [Action Success] Added Plate 123.
+[2024-03-20 18:15:32] [Action Success] Added Plate 1234.
+[2024-03-20 18:15:32] [Action Success] Added Plate 12345.
+[2024-03-20 18:15:37] [Action Request] Attempted to identify plate 12345.
+[2024-03-20 18:15:37] [Action Success] Found plate 12345.
+[2024-03-20 18:16:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:16:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:16:21] [Action Success] Database Reset.
+[2024-03-20 18:34:11] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:11] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:14] [Action Success] Added Plate 1.
+[2024-03-20 18:34:16] [Action Success] Added Plate 2.
+[2024-03-20 18:34:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:34] [Action Success] Updated car details for 1.
+[2024-03-20 18:34:35] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:35] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:38] [Action Success] Deleted plate 1.
+[2024-03-20 18:34:38] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:38] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:39] [Action Success] Deleted plate 2.
+[2024-03-20 18:34:40] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:40] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:34:42] [Action Success] Database Reset.
+[2024-03-20 18:48:34] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:48:34] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:48:37] [Action Success] Added Plate 1.
+[2024-03-20 18:48:39] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:48:39] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:48:43] [Action Success] Deleted plate 1.
+[2024-03-20 18:48:43] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:48:43] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:50:48] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:50:56] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:50:59] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:50:59] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:01] [Action Success] Added Plate 1.
+[2024-03-20 18:51:02] [Action Success] Added Plate 12.
+[2024-03-20 18:51:02] [Action Success] Added Plate 123.
+[2024-03-20 18:51:02] [Action Success] Added Plate 1234.
+[2024-03-20 18:51:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:15] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:15] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:15] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:18] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:18] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:42] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:42] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:42] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:44] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:45] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:51:45] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:02] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:03] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:05] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:07] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:07] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:17] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:19] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:19] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:19] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:52:19] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:22] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:22] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:24] [Action Success] Deleted plate 1.
+[2024-03-20 18:53:24] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:24] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:26] [Action Success] Deleted plate 12.
+[2024-03-20 18:53:26] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:26] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:27] [Action Success] Deleted plate 123.
+[2024-03-20 18:53:27] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:53:27] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:55:24] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:55:45] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:55:45] [Action Failed] Plate 1 not found.
+[2024-03-20 18:55:45] [Action Success] Added Plate 1.
+[2024-03-20 18:55:45] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:55:45] [Action Success] Found plate 1.
+[2024-03-20 18:57:43] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:57:43] [Action Success] Found plate 1.
+[2024-03-20 18:57:45] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 18:57:45] [Action Success] Found plate 1234.
+[2024-03-20 18:57:48] [Action Request] Attempted to identify plate 1.
+[2024-03-20 18:57:48] [Action Success] Found plate 1.
+[2024-03-20 18:57:52] [Action Request] Attempted to identify plate 1432.
+[2024-03-20 18:57:52] [Action Failed] Plate 1432 not found.
+[2024-03-20 18:57:52] [Action Request] Attempted to identify plate 1432.
+[2024-03-20 18:57:52] [Action Failed] Plate 1432 not found.
+[2024-03-20 18:58:25] [Action Request] Attempted to identify plate 1432.
+[2024-03-20 18:58:25] [Action Failed] Plate 1432 not found.
+[2024-03-20 18:58:25] [Action Request] Attempted to identify plate 1432.
+[2024-03-20 18:58:25] [Action Failed] Plate 1432 not found.
+[2024-03-20 18:58:29] [Action Request] Attempted to identify plate 32oi.
+[2024-03-20 18:58:29] [Action Failed] Plate 32oi not found.
+[2024-03-20 18:58:30] [Action Request] Attempted to identify plate 32oi.
+[2024-03-20 18:58:30] [Action Failed] Plate 32oi not found.
+[2024-03-20 18:58:35] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:58:35] [Action Failed] Plate 3209 not found.
+[2024-03-20 18:58:35] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:58:35] [Action Failed] Plate 3209 not found.
+[2024-03-20 18:58:40] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:58:40] [Action Failed] Plate 3209 not found.
+[2024-03-20 18:58:40] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:58:40] [Action Failed] Plate 3209 not found.
+[2024-03-20 18:58:51] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:58:51] [Action Failed] Plate 3209 not found.
+[2024-03-20 18:58:51] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:58:51] [Action Failed] Plate 3209 not found.
+[2024-03-20 18:58:51] [Action Success] Added Plate 3209.
+[2024-03-20 18:59:01] [Action Request] Attempted to identify plate 3209.
+[2024-03-20 18:59:01] [Action Success] Found plate 3209.
+[2024-03-20 18:59:04] [Action Request] Attempted to identify plate 2003.
+[2024-03-20 18:59:04] [Action Failed] Plate 2003 not found.
+[2024-03-20 18:59:04] [Action Request] Attempted to identify plate 2003.
+[2024-03-20 18:59:04] [Action Failed] Plate 2003 not found.
+[2024-03-20 18:59:04] [Action Success] Added Plate 2003.
+[2024-03-20 18:59:29] [Action Request] Attempted to identify plate 2004.
+[2024-03-20 18:59:29] [Action Failed] Plate 2004 not found.
+[2024-03-20 18:59:29] [Action Success] Added Plate 2004.
+[2024-03-20 18:59:29] [Action Request] Attempted to identify plate 2004.
+[2024-03-20 18:59:29] [Action Success] Found plate 2004.
+[2024-03-20 18:59:34] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:34] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:35] [Action Success] Deleted plate 1.
+[2024-03-20 18:59:35] [Action Success] Deleted plate 1.
+[2024-03-20 18:59:36] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:36] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:36] [Action Success] Deleted plate 1234.
+[2024-03-20 18:59:36] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:36] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:37] [Action Success] Deleted plate 2003.
+[2024-03-20 18:59:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:37] [Action Success] Deleted plate 2004.
+[2024-03-20 18:59:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:37] [Action Success] Deleted plate 3209.
+[2024-03-20 18:59:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 18:59:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:02:10] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:10] [Action Failed] Plate 1234 not found.
+[2024-03-20 19:02:10] [Action Success] Added Plate 1234.
+[2024-03-20 19:02:10] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:10] [Action Success] Found plate 1234.
+[2024-03-20 19:02:13] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:13] [Action Success] Found plate 1234.
+[2024-03-20 19:02:13] [Action Success] Added transaction of 20.0 to plate 1234.
+[2024-03-20 19:02:16] [Action Success] Added transaction of 20.0 to plate 1234.
+[2024-03-20 19:02:18] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:18] [Action Success] Found plate 1234.
+[2024-03-20 19:02:19] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:19] [Action Success] Found plate 1234.
+[2024-03-20 19:02:19] [Action Success] Added transaction of 20.0 to plate 1234.
+[2024-03-20 19:02:30] [Action Success] Added transaction of 5000.0 to plate 1234.
+[2024-03-20 19:02:30] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:30] [Action Success] Found plate 1234.
+[2024-03-20 19:02:34] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:34] [Action Success] Found plate 1234.
+[2024-03-20 19:02:41] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:41] [Action Success] Found plate 1234.
+[2024-03-20 19:02:42] [Action Success] Added transaction of -20000.0 to plate 1234.
+[2024-03-20 19:02:42] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:42] [Action Success] Found plate 1234.
+[2024-03-20 19:02:46] [Action Success] Added transaction of 20000.0 to plate 1234.
+[2024-03-20 19:02:46] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:46] [Action Success] Found plate 1234.
+[2024-03-20 19:02:49] [Action Success] Added transaction of -5060.0 to plate 1234.
+[2024-03-20 19:02:49] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:49] [Action Success] Found plate 1234.
+[2024-03-20 19:02:53] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:02:53] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:53] [Action Success] Found plate 1234.
+[2024-03-20 19:02:53] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:02:53] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:02:53] [Action Success] Found plate 1234.
+[2024-03-20 19:04:34] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:04:40] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:40] [Action Success] Found plate 1234.
+[2024-03-20 19:04:41] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:04:41] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:41] [Action Success] Found plate 1234.
+[2024-03-20 19:04:42] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:04:42] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:42] [Action Success] Found plate 1234.
+[2024-03-20 19:04:43] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:04:53] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:53] [Action Success] Found plate 1234.
+[2024-03-20 19:04:54] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:04:54] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:54] [Action Success] Found plate 1234.
+[2024-03-20 19:04:55] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:04:55] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:55] [Action Success] Found plate 1234.
+[2024-03-20 19:04:56] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:04:57] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:57] [Action Success] Found plate 1234.
+[2024-03-20 19:04:58] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:04:58] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:04:58] [Action Success] Found plate 1234.
+[2024-03-20 19:05:02] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:05:02] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:05:02] [Action Success] Found plate 1234.
+[2024-03-20 19:05:03] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:05:03] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:05:03] [Action Success] Found plate 1234.
+[2024-03-20 19:05:07] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:05:07] [Action Success] Found plate 1234.
+[2024-03-20 19:05:10] [Action Success] Marked plate 1234 stolen.
+[2024-03-20 19:05:10] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:05:10] [Action Success] Found plate 1234.
+[2024-03-20 19:05:11] [Action Success] Marked plate 1234 not stolen.
+[2024-03-20 19:05:13] [Action Request] Attempted to identify plate 1234.
+[2024-03-20 19:05:13] [Action Success] Found plate 1234.
+[2024-03-20 19:06:02] [Action Success] Database Reset.
+[2024-03-20 19:06:56] [Action Success] Database Reset.
+[2024-03-20 19:12:59] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:12:59] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:13:10] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:13:10] [Action Failed] Plate 234 not found.
+[2024-03-20 19:13:10] [Action Success] Added Plate 234.
+[2024-03-20 19:13:10] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:13:10] [Action Success] Found plate 234.
+[2024-03-20 19:13:14] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:13:14] [Action Success] Found plate 234.
+[2024-03-20 19:13:14] [Action Success] Added transaction of 500.0 to plate 234.
+[2024-03-20 19:13:18] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:13:18] [Action Success] Found plate 234.
+[2024-03-20 19:13:19] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:13:19] [Action Success] Found plate 234.
+[2024-03-20 19:13:19] [Action Success] Added transaction of 500.0 to plate 234.
+[2024-03-20 19:16:06] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:06] [Action Success] Found plate 234.
+[2024-03-20 19:16:06] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:06] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:06] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:06] [Action Success] Found plate 234.
+[2024-03-20 19:16:07] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:07] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:07] [Action Success] Found plate 234.
+[2024-03-20 19:16:08] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:08] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:08] [Action Success] Found plate 234.
+[2024-03-20 19:16:11] [Action Success] Added transaction of -500.0 to plate 234.
+[2024-03-20 19:16:11] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:11] [Action Success] Found plate 234.
+[2024-03-20 19:16:13] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:13] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:13] [Action Success] Found plate 234.
+[2024-03-20 19:16:14] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:14] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:14] [Action Success] Found plate 234.
+[2024-03-20 19:16:14] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:15] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:15] [Action Success] Found plate 234.
+[2024-03-20 19:16:15] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:15] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:15] [Action Success] Found plate 234.
+[2024-03-20 19:16:22] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:22] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:22] [Action Success] Found plate 234.
+[2024-03-20 19:16:23] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:23] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:23] [Action Success] Found plate 234.
+[2024-03-20 19:16:23] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:23] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:23] [Action Success] Found plate 234.
+[2024-03-20 19:16:24] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:24] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:24] [Action Success] Found plate 234.
+[2024-03-20 19:16:27] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:27] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:27] [Action Success] Found plate 234.
+[2024-03-20 19:16:28] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:28] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:28] [Action Success] Found plate 234.
+[2024-03-20 19:16:28] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:28] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:28] [Action Success] Found plate 234.
+[2024-03-20 19:16:28] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:28] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:28] [Action Success] Found plate 234.
+[2024-03-20 19:16:28] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:28] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:28] [Action Success] Found plate 234.
+[2024-03-20 19:16:29] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:29] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:29] [Action Success] Found plate 234.
+[2024-03-20 19:16:29] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:29] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:29] [Action Success] Found plate 234.
+[2024-03-20 19:16:29] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:29] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:29] [Action Success] Found plate 234.
+[2024-03-20 19:16:30] [Action Success] Marked plate 234 stolen.
+[2024-03-20 19:16:30] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:30] [Action Success] Found plate 234.
+[2024-03-20 19:16:30] [Action Success] Marked plate 234 not stolen.
+[2024-03-20 19:16:30] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:30] [Action Success] Found plate 234.
+[2024-03-20 19:16:35] [Action Success] Added transaction of 20.0 to plate 234.
+[2024-03-20 19:16:35] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:35] [Action Success] Found plate 234.
+[2024-03-20 19:16:37] [Action Success] Added transaction of -20.0 to plate 234.
+[2024-03-20 19:16:37] [Action Request] Attempted to identify plate 234.
+[2024-03-20 19:16:37] [Action Success] Found plate 234.
+[2024-03-20 19:22:34] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:22:34] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:22:36] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:22:36] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:27:49] [Action Success] Performed ANPR for plate (921.
+[2024-03-20 19:28:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:37] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:42] [Action Request] Attempted to identify plate 4567.
+[2024-03-20 19:28:42] [Action Failed] Plate 4567 not found.
+[2024-03-20 19:28:42] [Action Success] Added Plate 4567.
+[2024-03-20 19:28:42] [Action Request] Attempted to identify plate 4567.
+[2024-03-20 19:28:42] [Action Success] Found plate 4567.
+[2024-03-20 19:28:44] [Action Success] Marked plate 4567 stolen.
+[2024-03-20 19:28:44] [Action Request] Attempted to identify plate 4567.
+[2024-03-20 19:28:44] [Action Success] Found plate 4567.
+[2024-03-20 19:28:49] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:49] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:50] [Action Success] Deleted plate 234.
+[2024-03-20 19:28:51] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:51] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:52] [Action Success] Deleted plate 4567.
+[2024-03-20 19:28:53] [Action Success] Accessed entire cars DB.
+[2024-03-20 19:28:53] [Action Success] Accessed entire cars DB.
+[2024-03-21 06:50:37] [Action Success] Accessed entire cars DB.
+[2024-03-21 06:50:37] [Action Success] Added Plate 123.
+[2024-03-21 06:50:38] [Action Request] Attempted to identify plate 123.
+[2024-03-21 06:50:38] [Action Success] Found plate 123.
+[2024-03-21 06:50:42] [Action Success] Added transaction of 200.0 to plate 123.
+[2024-03-21 06:50:42] [Action Request] Attempted to identify plate 123.
+[2024-03-21 06:50:42] [Action Success] Found plate 123.
+[2024-03-21 06:50:43] [Action Success] Marked plate 123 stolen.
+[2024-03-21 06:50:43] [Action Request] Attempted to identify plate 123.
+[2024-03-21 06:50:43] [Action Success] Found plate 123.
+[2024-03-21 07:20:59] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:20:59] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:21:05] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:21:05] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:23:39] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:23:39] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:24:34] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:24:34] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:24:35] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:24:35] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:25:23] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:25:23] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:25:45] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:25:45] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:25:55] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:25:55] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:26:42] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:26:42] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:33:57] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:33:57] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:35:03] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:35:03] [Action Success] Found plate 12345.
+[2024-03-21 07:35:05] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:35:05] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:35:47] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:35:47] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:36:20] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:36:20] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:36:22] [Action Success] Deleted plate 1.
+[2024-03-21 07:36:22] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:36:22] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:36:23] [Action Success] Deleted plate 123.
+[2024-03-21 07:36:23] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:36:23] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:38:41] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:38:41] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:43:36] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:43:36] [Action Success] Found plate 12345.
+[2024-03-21 07:43:41] [Action Success] Added transaction of 200.0 to plate 12345.
+[2024-03-21 07:43:41] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:43:41] [Action Success] Found plate 12345.
+[2024-03-21 07:43:44] [Action Success] Added transaction of -20.0 to plate 12345.
+[2024-03-21 07:43:45] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:43:45] [Action Success] Found plate 12345.
+[2024-03-21 07:43:47] [Action Success] Added transaction of 20.0 to plate 12345.
+[2024-03-21 07:43:47] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:43:47] [Action Success] Found plate 12345.
+[2024-03-21 07:43:48] [Action Success] Marked plate 12345 stolen.
+[2024-03-21 07:43:48] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:43:48] [Action Success] Found plate 12345.
+[2024-03-21 07:43:49] [Action Success] Marked plate 12345 not stolen.
+[2024-03-21 07:43:49] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:43:49] [Action Success] Found plate 12345.
+[2024-03-21 07:44:34] [Action Success] Marked plate 12345 stolen.
+[2024-03-21 07:44:34] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:44:34] [Action Success] Found plate 12345.
+[2024-03-21 07:44:36] [Action Success] Marked plate 12345 not stolen.
+[2024-03-21 07:44:36] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:44:36] [Action Success] Found plate 12345.
+[2024-03-21 07:47:12] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:47:12] [Action Failed] Plate 12345 not found.
+[2024-03-21 07:47:12] [Action Success] Added Plate 12345.
+[2024-03-21 07:47:12] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:47:12] [Action Success] Found plate 12345.
+[2024-03-21 07:47:17] [Action Success] Added transaction of 200.0 to plate 12345.
+[2024-03-21 07:47:17] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:47:17] [Action Success] Found plate 12345.
+[2024-03-21 07:47:20] [Action Success] Added transaction of -100.0 to plate 12345.
+[2024-03-21 07:47:20] [Action Request] Attempted to identify plate 12345.
+[2024-03-21 07:47:20] [Action Success] Found plate 12345.
+[2024-03-21 07:47:40] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:47:40] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:54:08] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:54:08] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:54:08] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:55:14] [Action Success] Accessed car history of undefined.
+[2024-03-21 07:55:14] [Action Success] Accessed car history of undefined.
+[2024-03-21 07:55:29] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:55:29] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:04] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:04] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:16] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:19] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:19] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:52] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:56:52] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:57:27] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:57:27] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:57:29] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:57:29] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:58:54] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:58:54] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:58:56] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:58:56] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:58:59] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:58:59] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:00] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:00] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:02] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:02] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:13] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:13] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:13] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:13] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:15] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:15] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:15] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:15] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:16] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:16] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:16] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:16] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:27] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:27] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:30] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:30] [Action Success] Accessed car history of 12345.
+[2024-03-21 07:59:31] [Action Success] Accessed entire cars DB.
+[2024-03-21 07:59:31] [Action Success] Accessed entire cars DB.
+[2024-03-21 08:00:21] [Action Success] Accessed entire cars DB.
+[2024-03-21 08:00:21] [Action Success] Accessed entire cars DB.
+[2024-03-21 08:01:03] [Action Success] Accessed entire cars DB.
+[2024-03-21 08:08:19] [Action Success] Added transaction of 1000.0 to plate ABC123' OR 1=1 --.
+[2024-03-21 08:08:47] [Action Request] Attempted to identify plate 123456.
+[2024-03-21 08:08:47] [Action Failed] Plate 123456 not found.
+[2024-03-21 08:08:47] [Action Success] Added Plate 123456.
+[2024-03-21 08:08:47] [Action Request] Attempted to identify plate 123456.
+[2024-03-21 08:08:47] [Action Success] Found plate 123456.
+[2024-03-21 08:08:50] [Action Request] Attempted to identify plate 431209.
+[2024-03-21 08:08:50] [Action Failed] Plate 431209 not found.
+[2024-03-21 08:08:50] [Action Success] Added Plate 431209.
+[2024-03-21 08:08:50] [Action Request] Attempted to identify plate 431209.
+[2024-03-21 08:08:50] [Action Success] Found plate 431209.
+[2024-03-21 08:08:55] [Action Success] Accessed entire cars DB.
+[2024-03-21 08:08:55] [Action Success] Accessed entire cars DB.
+[2024-03-21 08:08:55] [Action Success] Added transaction of 1000.0 to plate ABC123' OR 1=1 --.
+[2024-03-21 08:15:06] [Action Success] Added transaction of 1000.0 to plate ABC123' OR 1=1 --.
+[2024-03-21 08:15:36] [Action Success] Added transaction of 1000.0 to plate ABC123' OR 1=1 --.
+[2024-03-21 12:00:03] [Action Request] Attempted to identify plate ' OR 1=1 --.
+[2024-03-21 12:00:03] [Action Failed] Plate ' OR 1=1 -- not found.
+[2024-03-21 12:00:17] [Action Request] Attempted to identify plate ' OR 1=1 --.
+[2024-03-21 12:00:17] [Action Failed] Plate ' OR 1=1 -- not found.
+[2024-03-21 12:04:11] [Action Request] Attempted to identify plate ' OR 1=1;.
+[2024-03-21 12:04:11] [Action Failed] Plate ' OR 1=1; not found.
+[2024-03-21 12:11:45] [Action Request] Attempted to identify plate ' OR 1=1;--.
+[2024-03-21 12:11:45] [Action Success] Found plate ' OR 1=1;--.
+[2024-03-21 12:16:36] [Action Failed] Attempted to add car Payload
+X-Injected-Header: Malicious_Value
+
+
+I HAVE INFESTED THE LOG FILE!
+
+
+
+.
+[2024-03-21 12:36:57] [Action Request] Attempted to identify plate 123.
+[2024-03-21 12:36:57] [Action Failed] Plate 123 not found.
+[2024-03-21 12:36:57] [Action Success] Added Plate 123.
+[2024-03-21 12:36:57] [Action Request] Attempted to identify plate 123.
+[2024-03-21 12:36:57] [Action Success] Found plate 123.
+[2024-03-21 12:37:00] [Action Success] Added transaction of 200.0 to plate 123.
+[2024-03-21 12:37:00] [Action Request] Attempted to identify plate 123.
+[2024-03-21 12:37:00] [Action Success] Found plate 123.
+[2024-03-21 12:37:04] [Action Success] Added transaction of -200.0 to plate 123.
+[2024-03-21 12:37:05] [Action Request] Attempted to identify plate 123.
+[2024-03-21 12:37:05] [Action Success] Found plate 123.
+[2024-03-21 12:38:05] [Action Request] Attempted to identify plate 1234.
+[2024-03-21 12:38:05] [Action Failed] Plate 1234 not found.
+[2024-03-21 12:38:05] [Action Success] Added Plate 1234.
+[2024-03-21 12:38:05] [Action Request] Attempted to identify plate 1234.
+[2024-03-21 12:38:05] [Action Success] Found plate 1234.
+[2024-03-21 12:41:21] [Action Success] Added transaction of 5.0 to plate 1234.
+[2024-03-21 12:42:14] [Action Request] Attempted to identify plate 1234.
+[2024-03-21 12:42:14] [Action Success] Found plate 1234.
+[2024-03-21 12:42:17] [Action Request] Attempted to identify plate 1234.
+[2024-03-21 12:42:17] [Action Success] Found plate 1234.
+[2024-03-21 12:42:46] [Action Request] Attempted to identify plate 1234.
+[2024-03-21 12:42:46] [Action Success] Found plate 1234.
+[2024-03-21 12:42:46] [Action Success] Added transaction of 200.0 to plate 1234.
+[2024-03-21 12:42:48] [Action Success] Added transaction of 200.0 to plate 1234.
+[2024-03-21 12:42:48] [Action Request] Attempted to identify plate 1234.
+[2024-03-21 12:42:48] [Action Success] Found plate 1234.
+[2024-03-21 12:47:13] [Action Success] Performed ANPR for plate 0830.
+[2024-03-21 12:47:16] [Action Success] Performed ANPR for plate 41240.
+[2024-03-21 12:47:19] [Action Success] Performed ANPR for plate 41240.
+[2024-03-24 14:45:28] [Action Success] Performed ANPR for plate 274.
+[2024-03-24 14:47:46] [Action Success] Performed ANPR for plate AD274.
+[2024-03-24 14:51:36] [Action Success] Performed ANPR for plate 1.
+[2024-03-24 14:52:43] [Action Success] Performed ANPR for plate 4.
+[2024-03-24 15:03:41] [Action Success] Performed ANPR for plate .
+[2024-03-24 15:03:59] [Action Success] Performed ANPR for plate Y
+%
+HAAN.
+./IN
+AEYES
+‘B
+@
+.
+[2024-03-24 15:04:02] [Action Success] Performed ANPR for plate \CA
+FI
+|I
+IAYI¢
+WISARS
+.
+[2024-03-24 15:04:06] [Action Success] Performed ANPR for plate XÉ)
+AL\E=
+HEY
+Y|EE||
+TF$34.AE|
+\,
+AD274§
+'
+.
+[2024-03-24 15:04:11] [Action Success] Performed ANPR for plate OME
+?|
+D275|
+.
+[2024-03-24 15:04:43] [Action Success] Performed ANPR for plate ‘'
+LA
+|\
+EE!AD274
+™
+.
+[2024-03-24 15:04:47] [Action Success] Performed ANPR for plate |,
+|
+MES,AD274§
+“L.—
+.
+[2024-03-24 15:04:49] [Action Success] Performed ANPR for plate |TE,
+\=
+
+FI
+‘2AD274
+.
+[2024-03-24 15:09:48] [Action Success] Performed ANPR for plate AD.
+[2024-03-24 15:09:55] [Action Success] Performed ANPR for plate AD.
+[2024-03-24 15:11:48] [Action Success] Performed ANPR for plate ['AD'].
+[2024-03-24 15:13:44] [Action Success] Performed ANPR for plate ['AD'].
+[2024-03-24 15:18:16] [Action Success] Performed ANPR for plate AD274.
+[2024-03-24 15:23:44] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:44] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:46] [Action Success] Deleted plate 123.
+[2024-03-24 15:23:46] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:46] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:46] [Action Success] Deleted plate 1234.
+[2024-03-24 15:23:47] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:47] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:48] [Action Success] Accessed car history of 12345.
+[2024-03-24 15:23:48] [Action Success] Accessed car history of 12345.
+[2024-03-24 15:23:50] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:23:50] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:25:47] [Action Success] Performed ANPR for plate AD274.
+[2024-03-24 15:25:52] [Action Request] Attempted to identify plate AD274.
+[2024-03-24 15:25:52] [Action Failed] Plate AD274 not found.
+[2024-03-24 15:25:52] [Action Success] Added Plate AD274.
+[2024-03-24 15:25:52] [Action Request] Attempted to identify plate AD274.
+[2024-03-24 15:25:52] [Action Success] Found plate AD274.
+[2024-03-24 15:25:55] [Action Success] Added transaction of 200.0 to plate AD274.
+[2024-03-24 15:25:55] [Action Request] Attempted to identify plate AD274.
+[2024-03-24 15:25:55] [Action Success] Found plate AD274.
+[2024-03-24 15:25:57] [Action Success] Marked plate AD274 stolen.
+[2024-03-24 15:25:57] [Action Request] Attempted to identify plate AD274.
+[2024-03-24 15:25:57] [Action Success] Found plate AD274.
+[2024-03-24 15:25:58] [Action Success] Marked plate AD274 not stolen.
+[2024-03-24 15:25:58] [Action Request] Attempted to identify plate AD274.
+[2024-03-24 15:25:58] [Action Success] Found plate AD274.
+[2024-03-24 15:26:01] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:02] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:05] [Action Success] Deleted plate 12345.
+[2024-03-24 15:26:06] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:06] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:07] [Action Success] Deleted plate 123456.
+[2024-03-24 15:26:07] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:07] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:07] [Action Success] Deleted plate 431209.
+[2024-03-24 15:26:08] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:08] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:09] [Action Success] Accessed car history of AD274.
+[2024-03-24 15:26:09] [Action Success] Accessed car history of AD274.
+[2024-03-24 15:26:58] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:26:59] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:29:04] [Action Success] Accessed entire cars DB.
+[2024-03-24 15:29:26] [Action Success] Accessed entire cars DB.
+[2024-03-26 15:59:42] [Action Success] Performed ANPR for plate AD4”
+.
+[2024-03-26 15:59:58] [Action Success] Performed ANPR for plate AD.
+°.
+[2024-03-26 16:02:35] [Action Success] Performed ANPR for plate DBS16.
+[2024-03-26 16:02:43] [Action Success] Performed ANPR for plate AD3.
+.
+[2024-03-26 16:02:46] [Action Success] Performed ANPR for plate DB576.
+[2024-03-26 16:11:01] [Action Success] Performed ANPR for plate DB123.
+[2024-03-26 16:11:07] [Action Success] Performed ANPR for plate DB123.
+[2024-03-26 16:12:11] [Action Success] Performed ANPR for plate AD345.
+[2024-03-26 16:14:43] [Action Success] Performed ANPR for plate AD<...
+[2024-03-26 16:15:10] [Action Success] Performed ANPR for plate AD345.
+[2024-03-26 16:15:27] [Action Success] Performed ANPR for plate DBS93.
+[2024-03-26 16:17:38] [Action Success] Performed ANPR for plate AD34S.
+[2024-03-26 16:19:23] [Action Success] Performed ANPR for plate AD.
+.
+[2024-03-26 16:19:51] [Action Success] Performed ANPR for plate ADAAD.
+[2024-03-26 16:21:38] [Action Success] Performed ANPR for plate AD
+;V.
+[2024-03-26 16:21:50] [Action Success] Performed ANPR for plate AD
+|A.
+[2024-03-26 16:22:06] [Action Success] Performed ANPR for plate AD£7
+.
+[2024-03-26 16:22:31] [Action Success] Performed ANPR for plate AD8,B.
+[2024-03-26 16:22:35] [Action Success] Performed ANPR for plate ADHYM.
+[2024-03-26 16:25:04] [Action Success] Performed ANPR for plate ADI*
+.
+[2024-03-26 16:25:28] [Action Success] Performed ANPR for plate ADY=A.
+[2024-03-26 16:25:44] [Action Success] Performed ANPR for plate AD.EE.
+[2024-03-26 16:55:54] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:55:54] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:39] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:39] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:44] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:44] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:48] [Action Request] Attempted to identify plate AD274.
+[2024-03-26 16:59:48] [Action Success] Found plate AD274.
+[2024-03-26 16:59:51] [Action Success] Marked plate AD274 stolen.
+[2024-03-26 16:59:51] [Action Request] Attempted to identify plate AD274.
+[2024-03-26 16:59:51] [Action Success] Found plate AD274.
+[2024-03-26 16:59:52] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:52] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:54] [Action Success] Accessed entire cars DB.
+[2024-03-26 16:59:54] [Action Success] Accessed entire cars DB.
+[2024-03-26 17:00:05] [Action Request] Attempted to identify plate AD274.
+[2024-03-26 17:00:05] [Action Success] Found plate AD274.
+[2024-03-26 17:00:07] [Action Success] Marked plate AD274 not stolen.
+[2024-03-26 17:00:07] [Action Request] Attempted to identify plate AD274.
+[2024-03-26 17:00:07] [Action Success] Found plate AD274.
+[2024-03-26 17:00:08] [Action Success] Accessed entire cars DB.
+[2024-03-26 17:00:08] [Action Success] Accessed entire cars DB.
+[2024-03-26 17:03:07] [Action Success] Performed ANPR for plate AD'
+¢.
+[2024-03-26 18:21:46] [Action Success] Performed ANPR for plate ('AD', 0).
+[2024-03-26 18:21:49] [Action Success] Performed ANPR for plate ('AD34', 0).
+[2024-03-26 18:21:52] [Action Success] Performed ANPR for plate ('AD345', 0).
+[2024-03-26 18:22:34] [Action Success] Performed ANPR for plate ADE.
+[2024-03-26 18:22:39] [Action Success] Performed ANPR for plate AD345.
+[2024-03-31 19:11:03] [Action Success] Accessed entire cars DB.
+[2024-03-31 19:11:39] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:35:06] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:35:06] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:35:38] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:35:40] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:35:40] [Action Failed] Plate AD420 not found.
+[2024-04-02 15:35:40] [Action Success] Added Plate AD420.
+[2024-04-02 15:35:40] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:35:40] [Action Success] Found plate AD420.
+[2024-04-02 15:36:50] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:36:50] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:36:54] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:36:54] [Action Failed] Plate AD420 not found.
+[2024-04-02 15:36:54] [Action Success] Added Plate AD420.
+[2024-04-02 15:36:54] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:36:54] [Action Success] Found plate AD420.
+[2024-04-02 15:38:16] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:16] [Action Success] Found plate AD420.
+[2024-04-02 15:38:16] [Action Success] Marked plate AD420 exempted.
+[2024-04-02 15:38:26] [Action Success] Marked plate AD420 not exempted.
+[2024-04-02 15:38:26] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:26] [Action Success] Found plate AD420.
+[2024-04-02 15:38:32] [Action Success] Marked plate AD420 exempted.
+[2024-04-02 15:38:32] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:32] [Action Success] Found plate AD420.
+[2024-04-02 15:38:33] [Action Success] Marked plate AD420 not exempted.
+[2024-04-02 15:38:33] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:33] [Action Success] Found plate AD420.
+[2024-04-02 15:38:34] [Action Success] Marked plate AD420 exempted.
+[2024-04-02 15:38:34] [Action Success] Marked plate AD420 not exempted.
+[2024-04-02 15:38:34] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:34] [Action Success] Found plate AD420.
+[2024-04-02 15:38:34] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:34] [Action Success] Found plate AD420.
+[2024-04-02 15:38:35] [Action Success] Marked plate AD420 exempted.
+[2024-04-02 15:38:35] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:35] [Action Success] Found plate AD420.
+[2024-04-02 15:38:44] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:38:45] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:38:55] [Action Request] Attempted to identify plate AD40.
+[2024-04-02 15:38:55] [Action Failed] Plate AD40 not found.
+[2024-04-02 15:38:55] [Action Success] Added Plate AD40.
+[2024-04-02 15:38:55] [Action Request] Attempted to identify plate AD40.
+[2024-04-02 15:38:55] [Action Success] Found plate AD40.
+[2024-04-02 15:38:58] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:38:58] [Action Success] Found plate AD420.
+[2024-04-02 15:40:13] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:40:13] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:40:13] [Action Success] Found plate AD420.
+[2024-04-02 15:40:13] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:40:13] [Action Success] Found plate AD420.
+[2024-04-02 15:40:13] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:40:13] [Action Success] Found plate AD420.
+[2024-04-02 15:46:35] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:46:35] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:47:19] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:47:19] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:47:19] [Action Success] Found plate AD420.
+[2024-04-02 15:47:19] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:47:19] [Action Success] Found plate AD420.
+[2024-04-02 15:47:20] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:47:20] [Action Success] Found plate AD420.
+[2024-04-02 15:48:22] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:48:22] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:22] [Action Success] Found plate AD420.
+[2024-04-02 15:48:22] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:22] [Action Success] Found plate AD420.
+[2024-04-02 15:48:22] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:22] [Action Success] Found plate AD420.
+[2024-04-02 15:48:22] [Action Success] Added transaction of -5.0 to plate AD420.
+[2024-04-02 15:48:24] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:48:24] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:24] [Action Success] Found plate AD420.
+[2024-04-02 15:48:26] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:48:26] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:26] [Action Success] Found plate AD420.
+[2024-04-02 15:48:28] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:48:28] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:28] [Action Success] Found plate AD420.
+[2024-04-02 15:48:28] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:28] [Action Success] Found plate AD420.
+[2024-04-02 15:48:28] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:28] [Action Success] Found plate AD420.
+[2024-04-02 15:48:28] [Action Success] Added transaction of -5.0 to plate AD420.
+[2024-04-02 15:48:30] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:48:30] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:30] [Action Success] Found plate AD420.
+[2024-04-02 15:48:32] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:48:32] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:48:32] [Action Success] Found plate AD420.
+[2024-04-02 15:49:31] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:31] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:31] [Action Success] Found plate AD420.
+[2024-04-02 15:49:31] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:31] [Action Success] Found plate AD420.
+[2024-04-02 15:49:31] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:31] [Action Success] Found plate AD420.
+[2024-04-02 15:49:31] [Action Success] Added transaction of -5.0 to plate AD420.
+[2024-04-02 15:49:33] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:33] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:33] [Action Success] Found plate AD420.
+[2024-04-02 15:49:35] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:35] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:35] [Action Success] Found plate AD420.
+[2024-04-02 15:49:37] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:37] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:37] [Action Success] Found plate AD420.
+[2024-04-02 15:49:37] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:37] [Action Success] Found plate AD420.
+[2024-04-02 15:49:37] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:37] [Action Success] Found plate AD420.
+[2024-04-02 15:49:37] [Action Success] Added transaction of -5.0 to plate AD420.
+[2024-04-02 15:49:39] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:39] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:39] [Action Success] Found plate AD420.
+[2024-04-02 15:49:41] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:41] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:41] [Action Success] Found plate AD420.
+[2024-04-02 15:49:43] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:43] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:43] [Action Success] Found plate AD420.
+[2024-04-02 15:49:43] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:43] [Action Success] Found plate AD420.
+[2024-04-02 15:49:43] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:43] [Action Success] Found plate AD420.
+[2024-04-02 15:49:43] [Action Success] Added transaction of -5.0 to plate AD420.
+[2024-04-02 15:49:45] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:49:45] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:49:45] [Action Success] Found plate AD420.
+[2024-04-02 15:50:39] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:39] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:39] [Action Success] Found plate AD420.
+[2024-04-02 15:50:39] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:39] [Action Success] Found plate AD420.
+[2024-04-02 15:50:39] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:39] [Action Success] Found plate AD420.
+[2024-04-02 15:50:39] [Action Failure] Attempted to add transaction of -5.0 to plate AD420. Vehicle is exempted.
+[2024-04-02 15:50:40] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:40] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:40] [Action Success] Found plate AD420.
+[2024-04-02 15:50:43] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:43] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:43] [Action Success] Found plate AD420.
+[2024-04-02 15:50:44] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:44] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:44] [Action Success] Found plate AD420.
+[2024-04-02 15:50:44] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:44] [Action Success] Found plate AD420.
+[2024-04-02 15:50:44] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:45] [Action Success] Found plate AD420.
+[2024-04-02 15:50:45] [Action Failure] Attempted to add transaction of -5.0 to plate AD420. Vehicle is exempted.
+[2024-04-02 15:50:47] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:47] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:47] [Action Success] Found plate AD420.
+[2024-04-02 15:50:48] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:48] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:48] [Action Success] Found plate AD420.
+[2024-04-02 15:50:50] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:50] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:50] [Action Success] Found plate AD420.
+[2024-04-02 15:50:50] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:50] [Action Success] Found plate AD420.
+[2024-04-02 15:50:50] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:50] [Action Success] Found plate AD420.
+[2024-04-02 15:50:50] [Action Failure] Attempted to add transaction of -5.0 to plate AD420. Vehicle is exempted.
+[2024-04-02 15:50:53] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:53] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:53] [Action Success] Found plate AD420.
+[2024-04-02 15:50:55] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:55] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:55] [Action Success] Found plate AD420.
+[2024-04-02 15:50:56] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:50:56] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:56] [Action Success] Found plate AD420.
+[2024-04-02 15:50:56] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:57] [Action Success] Found plate AD420.
+[2024-04-02 15:50:57] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:50:57] [Action Success] Found plate AD420.
+[2024-04-02 15:50:57] [Action Failure] Attempted to add transaction of -5.0 to plate AD420. Vehicle is exempted.
+[2024-04-02 15:50:59] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:50:59] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:51:03] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:03] [Action Success] Found plate AD420.
+[2024-04-02 15:51:05] [Action Success] Marked plate AD420 not exempted.
+[2024-04-02 15:51:05] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:05] [Action Success] Found plate AD420.
+[2024-04-02 15:51:15] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:51:15] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:15] [Action Success] Found plate AD420.
+[2024-04-02 15:51:15] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:15] [Action Success] Found plate AD420.
+[2024-04-02 15:51:15] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:15] [Action Success] Found plate AD420.
+[2024-04-02 15:51:15] [Action Success] Added transaction of -5.0 to plate AD420.
+[2024-04-02 15:51:17] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:51:17] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:17] [Action Success] Found plate AD420.
+[2024-04-02 15:51:19] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:51:19] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:51:19] [Action Success] Found plate AD420.
+[2024-04-02 15:53:37] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:53:39] [Action Success] Accessed entire cars DB.
+[2024-04-02 15:54:19] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:19] [Action Success] Found plate AD420.
+[2024-04-02 15:54:43] [Action Success] Added transaction of 30.0 to plate AD420.
+[2024-04-02 15:54:43] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:43] [Action Success] Found plate AD420.
+[2024-04-02 15:54:44] [Action Success] Marked plate AD420 exempted.
+[2024-04-02 15:54:44] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:44] [Action Success] Found plate AD420.
+[2024-04-02 15:54:51] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:54:51] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:51] [Action Success] Found plate AD420.
+[2024-04-02 15:54:52] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:52] [Action Success] Found plate AD420.
+[2024-04-02 15:54:52] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:52] [Action Success] Found plate AD420.
+[2024-04-02 15:54:52] [Action Failure] Attempted to add transaction of -5.0 to plate AD420. Vehicle is exempted.
+[2024-04-02 15:54:53] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:54:53] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:53] [Action Success] Found plate AD420.
+[2024-04-02 15:54:55] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:54:55] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:54:55] [Action Success] Found plate AD420.
+[2024-04-02 15:56:50] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:56:50] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:56:50] [Action Success] Found plate AD420.
+[2024-04-02 15:56:50] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:56:50] [Action Success] Found plate AD420.
+[2024-04-02 15:56:50] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:56:50] [Action Success] Found plate AD420.
+[2024-04-02 15:56:50] [Action Failure] Attempted to add transaction of -5.0 to plate AD420. Vehicle is exempted.
+[2024-04-02 15:56:52] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:56:52] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:56:52] [Action Success] Found plate AD420.
+[2024-04-02 15:56:54] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 15:56:54] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 15:56:54] [Action Success] Found plate AD420.
+[2024-04-02 15:57:46] [Action Success] Performed ANPR for plate DU204.
+[2024-04-02 15:57:46] [Action Request] Attempted to identify plate DU204.
+[2024-04-02 15:57:46] [Action Failed] Plate DU204 not found.
+[2024-04-02 15:57:46] [Action Request] Attempted to identify plate DU204.
+[2024-04-02 15:57:46] [Action Failed] Plate DU204 not found.
+[2024-04-02 15:57:47] [Action Success] Added Plate DU204.
+[2024-04-02 15:57:47] [Action Request] Attempted to identify plate DU204.
+[2024-04-02 15:57:47] [Action Success] Found plate DU204.
+[2024-04-02 15:57:47] [Action Success] Added transaction of -5.0 to plate DU204.
+[2024-04-02 15:57:56] [Action Success] Performed ANPR for plate DU204.
+[2024-04-02 15:57:56] [Action Request] Attempted to identify plate DU204.
+[2024-04-02 15:57:56] [Action Success] Found plate DU204.
+[2024-04-02 15:57:56] [Action Request] Attempted to identify plate DU204.
+[2024-04-02 15:57:56] [Action Success] Found plate DU204.
+[2024-04-02 15:57:56] [Action Request] Attempted to identify plate DU204.
+[2024-04-02 15:57:56] [Action Success] Found plate DU204.
+[2024-04-02 15:57:57] [Action Success] Added transaction of -5.0 to plate DU204.
+[2024-04-02 16:12:19] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:12:19] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:15:30] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 16:15:30] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 16:15:30] [Action Success] Found plate AD420.
+[2024-04-02 16:15:32] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 16:15:32] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 16:15:32] [Action Success] Found plate AD420.
+[2024-04-02 16:18:06] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 16:18:06] [Action Request] Attempted to identify plate AD420.
+[2024-04-02 16:18:06] [Action Success] Found plate AD420.
+[2024-04-02 16:32:31] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:32:31] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:32:52] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:32:52] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:33:01] [Action Success] Performed ANPR for plate AD420.
+[2024-04-02 16:34:26] [Action Success] Accessed entire cars DB.
+[2024-04-02 16:34:26] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:28:50] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:29:07] [Action Request] Attempted to identify plate test.
+[2024-04-03 16:29:07] [Action Failed] Plate test not found.
+[2024-04-03 16:29:19] [Action Request] Attempted to identify plate ' OR 1=1;--.
+[2024-04-03 16:29:19] [Action Failed] Plate ' OR 1=1;-- not found.
+[2024-04-03 16:30:11] [Action Request] Attempted to identify plate <bound method Request.form of <starlette.requests.Request object at 0x0000022385BD1570>>.
+[2024-04-03 16:30:44] [Action Request] Attempted to identify plate <bound method Request.form of <starlette.requests.Request object at 0x00000212ECBD5570>>.
+[2024-04-03 16:35:45] [Action Request] Attempted to identify plate TEST.
+[2024-04-03 16:35:45] [Action Failed] Plate TEST not found.
+[2024-04-03 16:37:52] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:37:55] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:37:55] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:38:01] [Action Success] Added Plate DU123.
+[2024-04-03 16:38:02] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:38:02] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:45:36] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:55:53] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:56:52] [Action Success] Accessed entire cars DB.
+[2024-04-03 16:57:49] [Action Request] Attempted to identify plate DU123.
+[2024-04-03 16:57:49] [Action Success] Found plate DU123.
+[2024-04-03 16:59:17] [Action Request] Attempted to identify plate DU123.
+[2024-04-03 16:59:17] [Action Success] Found plate DU123.
+[2024-04-03 16:59:56] [Action Request] Attempted to identify plate DU123.
+[2024-04-03 16:59:56] [Action Success] Found plate DU123.
+[2024-04-03 17:03:22] [Action Success] Accessed entire cars DB.
+[2024-04-03 17:17:57] [Action Success] Accessed entire cars DB.
+[2024-04-03 17:17:58] [Action Success] Accessed entire cars DB.
+[2024-04-03 17:23:41] [Action Success] Accessed entire cars DB.
+[2024-04-03 17:23:43] [Action Success] Accessed entire cars DB.

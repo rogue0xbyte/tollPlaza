@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    volumes:
+      - ./backend/app:/code/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./car_database.db
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend

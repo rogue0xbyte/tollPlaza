@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Car Details Lookup</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f4f4f4;
+    }
+    .container {
+        text-align: center;
+    }
+    input[type=text] {
+        padding: 10px;
+        width: 250px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    input[type=submit] {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    th {
+        background-color: #4CAF50;
+        color: white;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Car Details Lookup</h2>
+    <form id="carForm">
+        <input type="text" id="plateNumber" placeholder="Enter Plate Number" required>
+        <input type="submit" value="Lookup">
+    </form>
+    <div id="carDetails"></div>
+</div>
+
+<script>
+    document.getElementById("carForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        var plateNumber = document.getElementById("plateNumber").value;
+
+        // Define the request body
+        const formData = new FormData();
+        formData.append('plate_number', plateNumber);
+
+        // Define the endpoint URL
+        const endpoint = "http://localhost:8000/lookup";
+
+        // Define the request options
+        const requestOptions = {
+            method: 'POST',
+            body: formData
+        };
+
+        // Make the HTTP request
+        fetch(endpoint, requestOptions)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Process the response data
+                data = data.data;
+                console.log(data);
+                // Update the HTML to display the retrieved car details
+                const detailsContainer = document.getElementById("carDetails");
+                detailsContainer.innerHTML = `
+                    <table>
+                        <tr><th>Attribute</th><th>Value</th></tr>
+                        <tr><td>Plate Number</td><td>${data.plate_number}</td></tr>
+                        <tr><td>Owner Name</td><td>${data.owner_name}</td></tr>
+                        <tr><td>Car Model</td><td>${data.car_model}</td></tr>
+                        <tr><td>Car Color</td><td>${data.car_color}</td></tr>
+                        <tr><td>Balance</td><td>${data.balance}</td></tr>
+                        <tr><td>Stolen</td><td>${data.stolen}</td></tr>
+                        <tr><td>Exempted</td><td>${data.exempted}</td></tr>
+                    </table>
+                `;
+            })
+            .catch(error => {
+                // Handle errors
+                console.error('Error:', error);
+                // Update the HTML to show error message
+                const detailsContainer = document.getElementById("carDetails");
+                detailsContainer.innerHTML = "ERROR FETCHING";
+            });
+
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+Change baseUrl in:
+
+toll-plaza/frontend/src/services/api.jsx > baseUrl
+camera.py, rfid.py > baseUrl
